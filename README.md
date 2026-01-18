@@ -47,7 +47,7 @@ c:\Users\Georges Ballister\Desktop\Projeto\Desafio-XMX-Guaraherb\
 
 Você pode visualizar o resultado do projeto em produção no seguinte link:
 
-[Acesse o site aqui](https://seu-link-de-hospedagem.com)
+[Acesse o site aqui](https://guaraherb.netlify.app/)
 
 ## ✨ Agradecimentos
 
